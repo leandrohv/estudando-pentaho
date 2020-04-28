@@ -7,7 +7,11 @@
 ### Cursos
 - [Curso de SQL Completo Gratuito (BD-03)](https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS)
 
-- [Curso DIM1000 da Openin Big Data](https://ead.openin.com.br/curso/dim1000-desenhando-modelos-de-dados-dimensionais-para-data-warehouses-gratis/)
+- [Curso DIM1000 - Openin Big Data](https://ead.openin.com.br/curso/dim1000-desenhando-modelos-de-dados-dimensionais-para-data-warehouses-gratis/)
+
+- [Instalando e configurando Pentaho - OnCase](https://treinamentos.oncase.com.br/p/pentaho-install-config)
+
+- [Análise de Negócio com Pentaho CE - OnCase](https://treinamentos.oncase.com.br/p/pece7000)
 
 - [Canal Openin Big Data](https://www.youtube.com/c/OpeninBigData)
 
@@ -16,6 +20,7 @@
 - [AULA de PENTAHO](https://www.youtube.com/watch?v=GxqOuZjwTkU&list=PLFVsvpCNEKjfhUIO_emVDN3e9_x8p77up)
 
 - [Curso de Integração de dados com Pentaho](https://www.youtube.com/watch?v=9jtbygz9oyU&list=PLFVsvpCNEKjcHKLzep19KVPsUB_nUZcKt)
+
 
 ### Grupo
 - [Grupo Telegram](https://t.me/Pentaho)
