@@ -22,5 +22,22 @@
 - [Curso de Integração de dados com Pentaho](https://www.youtube.com/watch?v=9jtbygz9oyU&list=PLFVsvpCNEKjcHKLzep19KVPsUB_nUZcKt)
 
 
+### Livros 
+- [Data Analysis](https://link.springer.com/book/10.1007%2F978-3-319-03762-2)
+
+- [Principles of Data Mining](https://link.springer.com/book/10.1007%2F978-1-4471-7307-6)
+
+- [Fundamentals of Business Process Management](https://link.springer.com/book/10.1007%2F978-3-642-33143-5)
+
+- [Data Mining](https://link.springer.com/book/10.1007%2F978-3-319-14142-8)
+
+- [Business Process Management Cases](https://link.springer.com/book/10.1007%2F978-3-319-58307-5)
+
+- [Fundamentals of Business Process Management](https://link.springer.com/book/10.1007%2F978-3-662-56509-4)
+
+- [Essentials of Business Analytics](https://link.springer.com/book/10.1007%2F978-3-319-68837-4)
+
+- [Digital Business Models](https://link.springer.com/book/10.1007%2F978-3-030-13005-3)
+
 ### Grupo
 - [Grupo Telegram](https://t.me/Pentaho)
