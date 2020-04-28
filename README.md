@@ -16,3 +16,6 @@
 - [AULA de PENTAHO](https://www.youtube.com/watch?v=GxqOuZjwTkU&list=PLFVsvpCNEKjfhUIO_emVDN3e9_x8p77up)
 
 - [Curso de Integração de dados com Pentaho](https://www.youtube.com/watch?v=9jtbygz9oyU&list=PLFVsvpCNEKjcHKLzep19KVPsUB_nUZcKt)
+
+### Grupo
+- [Grupo Telegram](https://t.me/Pentaho)
