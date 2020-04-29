@@ -21,6 +21,9 @@
 
 - [Curso de Integração de dados com Pentaho](https://www.youtube.com/watch?v=9jtbygz9oyU&list=PLFVsvpCNEKjcHKLzep19KVPsUB_nUZcKt)
 
+### Documentação
+- [Webdetails CDE - Pentaho](https://webdetails.github.io/ccc/)
+- [Documentação Webdetails - Pentaho](https://github.com/webdetails/ccc)
 
 ### Livros 
 - [Data Analysis](https://link.springer.com/book/10.1007%2F978-3-319-03762-2)
@@ -38,6 +41,9 @@
 - [Essentials of Business Analytics](https://link.springer.com/book/10.1007%2F978-3-319-68837-4)
 
 - [Digital Business Models](https://link.springer.com/book/10.1007%2F978-3-030-13005-3)
+
+### Comunidade
+- [Community](https://community.hitachivantara.com/s/topic/0TO1J0000017kUqWAI/pentaho)
 
 ### Grupo
 - [Grupo Telegram](https://t.me/Pentaho)
