@@ -21,7 +21,7 @@
 
 - [Curso de Integração de dados com Pentaho](https://www.youtube.com/watch?v=9jtbygz9oyU&list=PLFVsvpCNEKjcHKLzep19KVPsUB_nUZcKt)
 
--[JebsWeb](http://jebsacademy.jebsweb.com.br/online/)
+- [JebsWeb](http://jebsacademy.jebsweb.com.br/online/)
 
 ### Documentação
 - [Webdetails CDE - Pentaho](https://webdetails.github.io/ccc/)
