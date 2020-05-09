@@ -23,6 +23,8 @@
 
 - [JebsWeb](http://jebsacademy.jebsweb.com.br/online/)
 
+- [Leandro Venâncio - Estudando Pentaho](https://www.youtube.com/channel/UCe0Ib3tzuuOt0lu8vaYnf7g)
+
 ### Documentação
 - [Webdetails CDE - Pentaho](https://webdetails.github.io/ccc/)
 - [Documentação Webdetails - Pentaho](https://github.com/webdetails/ccc)
